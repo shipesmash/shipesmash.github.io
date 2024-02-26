@@ -1,7 +1,6 @@
 ---
 title: "Potential of BlueSky and AT Protocol"
 ---
-
 Steve Klabnik posted a [great overview of how BlueSky and the Authenticated Transfer Protocol (atproto) works](https://steveklabnik.com/writing/how-does-bluesky-work) yesterday. I’m enjoying BlueSky so far and now I have a better understanding of how the protocol backing it works and the potential the technology has for creating new social experiences online. If you’re not familiar with atproto yet, read Steve’s post first.
 
 I’m not smart enough to have a lot of thoughts on the tech-side of atproto or how BlueSky is using it today but the post did make me think about how all this can improve on some challenges current social media services have.
